@@ -16,7 +16,7 @@ public class SteamManager : MonoBehaviour
     private uint _steamAppID = 480;
 
     /// <summary>
-    /// SSteam Mod Directory.
+    /// Steam Mod Directory.
     /// </summary>
     [Tooltip("Steam Mod Directory.")]
     [SerializeField]
